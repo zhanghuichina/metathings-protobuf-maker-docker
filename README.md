@@ -1,2 +1,2 @@
 # metathings-protobuf-maker-docker
-generate protobuf files using docker
+auto generate protobuf files using docker
